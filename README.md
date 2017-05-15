@@ -1,2 +1,2 @@
 # GIT-TRAINING
-Created for git trainibg purposes
+Created for git training purposes
